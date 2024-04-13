@@ -18,3 +18,5 @@
 [Hardware specifications need to be added]
 [Blogpost link]
 [download the models and add them here]
+## Training Report
+https://wandb.ai/darrynbiervliet/huggingface/reports/LLava-Reproduction-Training-Report--Vmlldzo3NTI5Mzgy
