@@ -28,4 +28,4 @@ The scripts we used along with the other models can be found in the following fo
 
 
 ## Training Report
-https://wandb.ai/darrynbiervliet/huggingface/reports/LLava-Reproduction-Training-Report--Vmlldzo3NTI5Mzgy
+https://api.wandb.ai/links/darrynbiervliet/lvsbf5ax
