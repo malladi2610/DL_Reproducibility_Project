@@ -29,3 +29,6 @@ The scripts we used along with the other models can be found in the following fo
 
 ## Training Report
 https://api.wandb.ai/links/darrynbiervliet/lvsbf5ax
+
+## Finetuned Gemma-2b Model Weights
+https://huggingface.co/Algopapi/llava-gemma-2b
